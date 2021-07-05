@@ -1,0 +1,2 @@
+# kodluyoruzilkrepo
+kodluyoruz git ödev
